@@ -154,8 +154,8 @@ Failure modes were consistent across all three paradigms, differing in severity 
 ## Reproducing
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/farhanshahriar30/classical-vs-transformer-vs-llm-for-toxic-comment-classification.git
+cd classical-vs-transformer-vs-llm-for-toxic-comment-classification
 pip install -r requirements.txt
 ```
 
